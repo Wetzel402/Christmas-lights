@@ -3,6 +3,7 @@
 ## Useful links
 - [Spiker Lights power calculator](http://spikerlights.com/calcpower.aspx)
 - [Dig-Quad](https://quinled.info/pre-assembled-quinled-dig-quad/)
+- [QuinLED data booster](https://quinled.info/quinled-data-booster/)
 - [Selecting a power supply](https://quinled.info/2018/10/03/power-supply-selection/)
 - [PixaTrack Aluminum Rail](https://www.holidaycoro.com/PixaTrack-Pixel-Node-Mounting-Track-for-Permanent-p/1900.htm) or [PermaTrack Aluminum Rail](https://www.permatrack.us)
 
