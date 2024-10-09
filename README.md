@@ -12,6 +12,8 @@
 
 ## Affiliate links
 - [PLA Filament](https://www.amazon.com/dp/B099JXQN6K?_encoding=UTF8&psc=1&linkCode=ll1&tag=wetzel4020a-20&linkId=0e5d6c1bf44ee05d9589d47dbd563a72&language=en_US&ref_=as_li_ss_tl)
+- [PLA PRO Filament](https://www.amazon.com/gp/product/B0BYJG7H59?ie=UTF8&th=1&linkCode=ll1&tag=wetzel4020a-20&linkId=8c3908c60056ef6ed66cf59c0e160ee9&language=en_US&ref_=as_li_ss_tl)
+- [PA6-CF Nylon Filament](https://www.amazon.com/gp/product/B09MTBF55V?ie=UTF8&psc=1&linkCode=ll1&tag=wetzel4020a-20&linkId=28ed81a5482ec478ff452ac0048e0ac2&language=en_US&ref_=as_li_ss_tl)
 - [Relay boards](https://www.amazon.com/AITRIP-Channel-Optocoupler-Isolation-Development/dp/B08W3XDNGK?crid=9MGKPWJD1AKE&dib=eyJ2IjoiMSJ9.IC7JyJzPnIA9Qjk67pC_3Gf2kcEBwWQhvBSsgfSLMCI06LSs0KWf1iP53IBGrBC-ZaZo3ay9PdMaYdFG6KB9irW5C4sFTSb_BzEv61BAjyy4FWZaCHSKvnhHeCLJzKQpgfK6E1qkPIncJdOfvPsRUTxOWhanJX0BBDNcN29a-9FLBu469Xw5ig3vrvRjIGetcGL9qYXtZ0RUAPiLlFZsxWRDKWBDBfzw-VVF4WZ_t2Q.bvvbesighvkvybRk4KQdPYFeggTp4D6RN9VKWRTagxo&dib_tag=se&keywords=3v%2BRelay%2BBoard%2BPower%2BSwitch%2BRelay%2BModule%2B1%2BChannel%2BOptocoupler&qid=1728503788&sprefix=3v%2Brelay%2Bboard%2Bpower%2Bswitch%2Brelay%2Bmodule%2B1%2Bchannel%2Boptocoupler%2Caps%2C192&sr=8-2&th=1&linkCode=ll1&tag=wetzel4020a-20&linkId=a81affb6fb38ae423bea2965473b31b0&language=en_US&ref_=as_li_ss_tl)
 - [IP67 Waterproof Plastic Enclosure](https://www.amazon.com/gp/product/B08282SQPT?ie=UTF8&psc=1&linkCode=ll1&tag=wetzel4020a-20&linkId=28cac69a62b4e46512debc69fb6ffa17&language=en_US&ref_=as_li_ss_tl)
 - [xConnect pigtails](https://www.amazon.com/gp/product/B08MPYXPG1?ie=UTF8&th=1&linkCode=ll1&tag=wetzel4020a-20&linkId=cff75b45d3a23eb58a02e2ecb4d43f07&language=en_US&ref_=as_li_ss_tl)
